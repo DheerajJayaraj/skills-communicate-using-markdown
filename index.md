@@ -8,3 +8,8 @@
 ``` javascript
 var bmw = "just why";
 ```
+
+
+- [X] bmw is awesome
+- [x] if you use the indicator,sell your car
+- [ ] i repeat DON'T INDICATE
